@@ -1,5 +1,7 @@
 The below labs showcase not only my technical skill set but also my awareness of how attackers exploit system misconfigurations — and how defenders detect and respond to those threats. Each project strengthens my ability to triage alerts, analyze logs, and recommend security improvements in real-world environments.
 
+---
+
 ### [Windows Server Installation/Configuration](https://github.com/bekinal/Windows-Server-Installation-Configuration/blob/main/README.md)
 This foundational lab demonstrates my ability to stand up enterprise-grade server environments. As a SOC Analyst, understanding how systems are configured is key to spotting misconfigurations and establishing a security baseline.
 
