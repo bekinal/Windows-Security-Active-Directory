@@ -1,5 +1,9 @@
 # Windows Security/Active Directory
 
+Below is a curated list of system administration and security configuration labs that reflect my ability to manage, harden, and monitor enterprise Windows environments — critical skills for SOC Analysts working in real-world infrastructures.
+
+---
+
 ### [Windows Server Installation/Configuration](https://github.com/bekinal/Windows-Server-Installation-Configuration/blob/main/README.md)
 This foundational lab demonstrates my ability to stand up enterprise-grade server environments. As a SOC Analyst, understanding how systems are configured is key to spotting misconfigurations and establishing a security baseline.
 
